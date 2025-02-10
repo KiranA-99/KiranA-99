@@ -1,16 +1,20 @@
-## Hi there 👋
-This is a Tableau End to end project
-<!--
-**KiranA-99/KiranA-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Kiran Abhinav!
+🎓 Recent Master's Graduate | Aspiring Data Analyst
+📊 Passionate About Data, Analytics & Insights
+⚽ Former National Soccer Player | Fitness Enthusiast
 
-Here are some ideas to get you started:
+💡 About Me
+I recently earned my Master’s in Statistical Analytics, Computing & Modeling and have a strong foundation in data analysis, machine learning, and business intelligence. My expertise lies in transforming raw data into actionable insights using Python, SQL, and visualization tools like Power BI and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔧 Tech Stack & Tools
+Programming: Python, R, SQL, NoSQL, Visual Basic
+Data Science: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+Big Data & Cloud: Hadoop, Hive, Spark, Snowflake, Databricks, Redshift
+Databases: PostgreSQL, MySQL, MS-SQL, BigQuery, MongoDB
+BI & Visualization: Power BI, Tableau, Google Analytics
+DevOps & Tools: GitHub, Docker, CI/CD, Jira, SAP ERP, Postman
+🚀 What I’m Working On
+🔹 Data-driven projects leveraging Python, SQL, and BI tools
+🔹 Enhancing my skills in machine learning and predictive modeling
+🔹 Exploring business analytics and financial data analysis
 -->
